@@ -1,0 +1,105 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "user"
+      },
+      "creation_time": "2023-09-08T21:31:35.338Z",
+      "description": {
+        "content": "Desarrollar la lógica que traducirá un número en dígitos a kichwa.",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "prio": 8,
+      "references": [],
+      "title": "Implementar la Lógica de Traducción"
+    },
+    {
+      "assignedTo": {
+        "name": "user"
+      },
+      "creation_time": "2023-09-08T21:31:50.418Z",
+      "description": {
+        "content": "Agregar manejo de errores para identificar entradas inválidas y proporcionar mensajes de error claros.",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "prio": 8,
+      "references": [],
+      "title": "Manejo de Errores y Excepciones"
+    },
+    {
+      "assignedTo": {
+        "name": "user"
+      },
+      "creation_time": "2023-09-08T21:32:15.539Z",
+      "description": {
+        "content": "Realizar pruebas de integración para garantizar que todas las partes de la aplicación funcionen juntas sin problemas.",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "prio": 7,
+      "references": [],
+      "title": "Integración y Pruebas"
+    },
+    {
+      "assignedTo": {
+        "name": "user"
+      },
+      "creation_time": "2023-09-08T21:32:35.042Z",
+      "description": {
+        "content": "Implementar un menú que permita al usuario elegir si desea traducir otro número o terminar el programa.",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "prio": 5,
+      "references": [],
+      "title": "Agregar Menú de Opciones"
+    },
+    {
+      "assignedTo": {
+        "name": "user"
+      },
+      "creation_time": "2023-09-08T21:30:26.741Z",
+      "description": {
+        "content": "Crear la estructura básica de la interfaz de usuario de línea de comandos para recibir la entrada del usuario y mostrar resultados.",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "prio": 5,
+      "references": [],
+      "title": "Diseñar la Intergaz de Usuario"
+    },
+    {
+      "assignedTo": {
+        "name": "user"
+      },
+      "creation_time": "2023-09-08T21:32:49.354Z",
+      "description": {
+        "content": "Conectar la funcionalidad de traducción con la opción de ejecución continua para que el usuario pueda tomar decisiones.",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "prio": 5,
+      "references": [],
+      "title": "Integración con Traducción Continua"
+    },
+    {
+      "assignedTo": {
+        "name": "user"
+      },
+      "creation_time": "2023-09-08T21:33:04.570Z",
+      "description": {
+        "content": "Realizar pruebas exhaustivas para asegurarse de que la ejecución continua funcione de manera confiable.",
+        "mime": "text/markdown"
+      },
+      "id": "7",
+      "prio": 5,
+      "references": [],
+      "title": "Pruebas y Verificación de la Ejecución Continua"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}
