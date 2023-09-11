@@ -12,7 +12,7 @@
 ## Resumen de la Reunión:
 
 - Temas Discutidos: Actividades del primer sprint como: Implementar la funcionalidad de traducción a Kichwa, además de agregar el manejo de errores para identificar entradas invalidas y agreagar la funcionalidad de traducción continua.
-- Logros: Se completaron las actividades propuestas ara el primer sprint.
+- Logros: Se completaron las actividades propuestas para el primer sprint.
 
 ## Actualizaciones de Estado:
 
