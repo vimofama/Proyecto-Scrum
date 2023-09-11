@@ -11,24 +11,24 @@
 
 ## Resumen de la Reunión:
 
-- Temas Discutidos: Actividades del primer sprint como: visualizar tarea, crear tarea y eliminar tarea.
-- Logros: Se completó la actividad de visualizar tarea y crear tarea.
+- Temas Discutidos: Actividades del primer sprint como: Implementar la funcionalidad de traducción a Kichwa, además de agregar el manejo de errores para identificar entradas invalidas y agreagar la funcionalidad de traducción continua.
+- Logros: Se completaron las actividades propuestas ara el primer sprint.
 
 ## Actualizaciones de Estado:
 
 ### Mateo Morales:
 
-- ¿Qué hice ayer?: Completé la actividad de visualizar tarea.
-- ¿Qué haré hoy?: Trabajar en la tarea de eliminar tarea.
+- ¿Qué hice ayer?: Completé la actividad de implementar la funcionalidad de traducción a Kichwa.
+- ¿Qué haré hoy?: Trabajar en la tarea el manejo de errores para identificar entradas invalidas.
 - ¿Algo que me esté bloqueando?: El tiempo está ajustado, pero estoy gestionando mi tiempo de manera eficiente.
 
 ### Steeven Panchi:
 
-- ¿Qué hice ayer?: Completé la tarea de crear tarea.
-- ¿Qué haré hoy?: Trabajar en la tarea de eliminar tarea.
-- ¿Algo que me esté bloqueando?: Estoy experimentando con la utilización de clases en JavaScript, lo que ha ralentizado un poco mi progreso.
+- ¿Qué hice ayer?: Completé la actividad de implementar la funcionalidad de traducción a Kichwa.
+- ¿Qué haré hoy?: Trabajar en la tarea de agreagar la funcionalidad de traducción continua.
+- ¿Algo que me esté bloqueando?: Estoy investigando sobre la traducción de español a kichwa, lo que ha ralentizado un poco mi progreso.
 
 
 ## Conclusiones y Próximos Pasos:
 
-En conclusión, el equipo de desarrollo está avanzando de manera efectiva en las tareas del primer sprint. Se han completado las actividades de visualizar tarea y crear tarea. Se han identificado algunos bloqueos, como la gestión del tiempo y la experimentación con clases en JavaScript, pero el equipo está trabajando en resolverlos. Los próximos pasos incluyen completar la tarea de eliminar tarea y asegurarse de que las soluciones a los bloqueos sean efectivas. El equipo está comprometido con el éxito del sprint.
+En conclusión, el equipo de desarrollo está avanzando de manera efectiva en las tareas del primer sprint. Se han completado las actividades de implementar la funcionalidad de traducción a Kichwa, además de agregar el manejo de errores para identificar entradas invalidas y agreagar la funcionalidad de traducción continua. Se han identificado algunos bloqueos, como la gestión del tiempo y el desconocimiento acerca del idioma kichwa, pero el equipo está trabajando en resolverlos. Los próximos pasos solo seran de las pruebas que se realizarán al código. El equipo está comprometido con el éxito del sprint.
